@@ -39,10 +39,6 @@ Usage: python get_friends.py username password output_file
 
 The output has the following format: id \t name \t username
 
-This script uses a browser automation library and the Phantom JS browser.
-+ brew install phantomjs
-+ pip install splinter
-
 ### collect_conversations.py
 Downloads your entire Facebook messaging history.
 
