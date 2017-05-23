@@ -12,7 +12,7 @@
 pip install virtualenv
 git clone https://github.com/kho226/facebook_messenger_scraper
 cd facebook_messenger_scraper
-virtualenv -p usr/bin/python2.6
+virtualenv -p /usr/bin/python2.6
 source bin/activate
 pip install urllib2
 pip install requests
