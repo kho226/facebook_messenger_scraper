@@ -1,3 +1,34 @@
+### project setup
+
+```
+pip install virtualenv
+git clone https://github.com/kho226/facebook_messenger_scraper
+cd facebook_messenger_scraper
+virtualenv -p usr/bin/python2.6
+source bin/activate
+pip install urllib2
+pip install requests
+pip install twilio
+pip install splinter
+pip install pymongo
+mongod
+```
+
+### MongoDB setup
+https://ademirgabardo.wordpress.com/2016/02/02/installing-and-running-mongodb-on-mac-osx-for-beginners/
+
+### splinter
+http://splinter.readthedocs.io/en/latest/index.html
+
+### twilio
+https://github.com/twilio/twilio-python
+
+https://www.twilio.com/docs/api/rest/sending-messages
+
+
+### MongoDB
+https://docs.mongodb.com/manual/
+
 ### get_friends.py
 
 Get all of your friend's Facebook user ids from your messaging history.
