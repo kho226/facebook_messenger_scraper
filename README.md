@@ -1,4 +1,4 @@
-### to-do
+### To-do (in no particular order)
 - [ ] refactor
 - [ ] identify sentiments
 - [ ] re-structure database
