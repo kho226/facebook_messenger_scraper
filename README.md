@@ -1,3 +1,11 @@
+### to-do
+- [ ] refactor
+- [ ] identify sentiments
+- [ ] re-structure database
+- [ ] implement truly random messages
+- [ ] gather meta data
+- [ ] parse messages content
+
 ### Project setup
 
 ```
@@ -53,7 +61,7 @@ message_collection = {
   "content" : " ",
   "time_stamp " : " " ,
   "device_type" :  " ",
-  "sender" " "
+  "sender" : " "
 }
 ```
 
